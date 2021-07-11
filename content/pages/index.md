@@ -38,7 +38,7 @@ sections:
           kami buat dan project - project yang berupa open source maupun bukan
           juga akan ditampilkan. 
         actions:
-          - label: Learn More
+          - label: More
             url: /style-guide
             style: link
   - section_id: text-img
