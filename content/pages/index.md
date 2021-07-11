@@ -21,7 +21,7 @@ sections:
           dengan path yang memudahkan pengguna yang ingin belajar berdasarkan
           jalurnya
         actions:
-          - label: Get Started
+          - label: More
             url: /docs
             style: link
       - title: Blog
