@@ -46,10 +46,9 @@ sections:
     image: images/jamstack.svg
     image_position: left
     title: Dokumentasi Perjalanan dan Pelajaran
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Halaman ini murni tentang hasil dari karya yang telah dibuat dan materi
+      pemrograman yang telah dipelajari
     actions:
       - label: View Demo
         url: /docs/getting-started
