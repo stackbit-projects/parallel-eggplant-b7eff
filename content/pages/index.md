@@ -16,10 +16,10 @@ sections:
     col_number: three
     grid_items:
       - title: Youtube
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          Video yang telah tampil di youtube akan ditampilkan di halaman ini
+          dengan path yang memudahkan pengguna yang ingin belajar berdasarkan
+          jalurnya
         actions:
           - label: Get Started
             url: /docs
